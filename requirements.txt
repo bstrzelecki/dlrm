@@ -8,3 +8,10 @@ scikit-learn
 tqdm
 torchrec-nightly
 torchx-nightly
+tensorboard
+hdbscan
+matplotlib
+umap
+
+mlperf_logging
+openvino
